@@ -15,7 +15,7 @@ set :js_dir, 'javascripts'
 set :images_dir, 'images'
 set :fonts_dir, 'fonts'
 
-# Activate the syntax highlighter
+# Activate the syntax highlighte
 activate :syntax
 
 activate :autoprefixer do |config|
